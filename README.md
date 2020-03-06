@@ -1,5 +1,6 @@
 # MUAPISE
-Sample application to integrate multiple API services
+Sample application to integrate multiple API services.
+Author: Norman Valerio
 
 ## Folder structure (based on David Fowler Template)
 (https://gist.github.com/davidfowl/ed7564297c61fe9ab814)
